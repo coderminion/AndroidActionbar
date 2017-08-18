@@ -1,0 +1,2 @@
+# AndroidActionbar
+AndroidActionbar explains how android actionbar can be implemented useful features in android drawer , android back button on actionbar called as Homeup button how menuitems are arranged on actionbar, how searchview can be implemented using v7 Searchview widget , how actionbar is animated using Observable scroll which can be used in Listview,Recyclerview,GridView,ScrollView etc.  
