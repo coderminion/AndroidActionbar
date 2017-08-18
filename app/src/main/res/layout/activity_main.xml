@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context="com.coderminion.actionbar.MainActivity">
+
+
+    <Button
+        android:id="@+id/drawer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Drawer"
+        tools:layout_editor_absoluteX="146dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <Button
+        android:id="@+id/homeback"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Back Button (Home)"
+        tools:layout_editor_absoluteX="146dp"
+        tools:layout_editor_absoluteY="64dp" />
+
+    <Button
+        android:id="@+id/menuitems"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="menuitem on actionbar"
+        tools:layout_editor_absoluteX="146dp"
+        tools:layout_editor_absoluteY="112dp" />
+
+    <Button
+        android:id="@+id/searchview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Search View"
+        tools:layout_editor_absoluteX="146dp"
+        tools:layout_editor_absoluteY="160dp" />
+
+    <Button
+        android:id="@+id/fadingactionbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="fading actionbar"
+        tools:layout_editor_absoluteX="146dp"
+        tools:layout_editor_absoluteY="208dp" />
+</LinearLayout>

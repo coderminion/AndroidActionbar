@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidActionbar</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawerActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_menu_items">MenuItems</string>
+    <string name="text">Enter Text To search</string>
+    <string name="search_hint">Enter text to search</string>
+</resources>
